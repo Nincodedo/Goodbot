@@ -1,0 +1,10 @@
+
+/target/
+/.idea/
+/logs/
+/config
+*.iml
+/data/
+*.log
+*.gz
+/sourcetrail_dependencies/

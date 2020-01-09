@@ -1,0 +1,9 @@
+{
+  "responses": [
+    {
+      "response": "thanks",
+      "target": "good bot",
+      "type": "exact"
+    }
+  ]
+}
